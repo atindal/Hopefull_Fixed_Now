@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Button pushButton = findViewById(R.id.changebutton);
         TextView hw = findViewById(R.id.changeable);
+        TextView testing1 = findViewById(R.id.test1);
 
         pushButton.setOnClickListener(new View.OnClickListener() {
             @Override
