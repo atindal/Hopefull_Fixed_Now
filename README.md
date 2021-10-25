@@ -28,6 +28,6 @@ Kotlin: https://developer.android.com/kotlin/style-guide
 # Authors
 Jack Snelgrove - snelgrj@email.sc.edu
 Austin Tindal - aptindal@email.sc.edu
-Doug Stokes - 
+Doug Stokes - stokesdb@email.sc.edu
 Sincere Dixon - sincere@email.sc.edu
 Stephen Thompson - 
