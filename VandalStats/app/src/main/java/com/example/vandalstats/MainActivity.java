@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         pushButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                hw.setText("Button has absolutely for sure been pressed.");
+                hw.setText("The button has definitely been pressed.");
             }
         });
     }
