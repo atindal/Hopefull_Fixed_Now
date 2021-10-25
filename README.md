@@ -29,5 +29,5 @@ Kotlin: https://developer.android.com/kotlin/style-guide
 Jack Snelgrove - snelgrj@email.sc.edu
 Austin Tindal - aptindal@email.sc.edu
 Doug Stokes - 
-Sincere Dixon - 
+Sincere Dixon - sincere@email.sc.edu
 Stephen Thompson - 
