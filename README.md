@@ -16,7 +16,7 @@
 
 # Authors
 Jack Snelgrove - snelgrj@email.sc.edu
-Austin Tindal - 
+Austin Tindal - aptindal@email.sc.edu
 Doug Stokes - 
 Sincere Dixon - 
 Stephen Thompson - 
